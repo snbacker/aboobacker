@@ -1,11 +1,11 @@
 {
-    "name": "Aboobacker Siddique N",
-    "short_name": "Aboobacker SN",
+    "name": "portfolio",
+    "short_name": "portfolio",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Portfolio of Aboobacker Siddique N",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
